@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, Welcome to my GitHub. I am Burhanuddin Jinwala</h1>
+<h1 align="center">Hey 👋, glad to see you here.</h1>
 <h3 align="center">🌍 Web enthusiast from full-stack to blockchain | Always learning 🚀.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burhanj888&label=Profile%20views&color=0e75b6&style=flat" alt="burhanj888" /> </p>
