@@ -11,7 +11,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,js,html,css,scss,pythom,django,react,nodejs,vue,angular,flask,go,aws,java,c,babel,bitbucket,bootstrap,cpp,discord,docker,electron,express,figma,firebase,github,gmail,gitlab,graphql,heroku,ipfs,jenkins,jquery,kubernete,linkedin,linux,mongodb,mysql,netlify,nextjs,nestjs,nginx,nginx,npm,php,postgres,postgres,powershell,py,pytorch,r,redux,regex,remix,replit,rust,sass,spring,sqlite,stackoverflow,solidity,swift,tailwind,tensorflow,ts,ubuntu,vercel,vim,vscode,windows,yarn,wordpress" />
+    <img src="https://skillicons.dev/icons?i=git,js,html,css,scss,python,django,react,nodejs,vue,angular,go,aws,java,c,babel,bitbucket,bootstrap,cpp,discord,docker,electron,express,figma,firebase,github,gmail,gitlab,graphql,heroku,ipfs,jenkins,jquery,kubernete,linkedin,linux,mongodb,mysql,netlify,nextjs,nestjs,nginx,nginx,npm,php,postgres,powershell,py,pytorch,r,redux,regex,remix,replit,rust,sass,spring,sqlite,stackoverflow,solidity,swift,tailwind,tensorflow,ts,ubuntu,vercel,vim,vscode,windows,yarn,wordpress" />
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhanj888&layout=compact" alt="burhanj888" /></p>
