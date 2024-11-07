@@ -11,7 +11,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,js,html,css,scss,python,django,react,nodejs,vue,angular,go,aws,java,c,babel,bitbucket,bootstrap,cpp,discord,docker,electron,express,figma,firebase,github,gmail,gitlab,graphql,heroku,ipfs,jenkins,jquery,kubernetes,linkedin,linux,mongodb,mysql,netlify,nextjs,nestjs,nginx,npm,php,postgres,powershell,pytorch,r,redux,regex,remix,replit,rust,spring,sqlite,stackoverflow,solidity,swift,tailwind,tensorflow,ts,ubuntu,vercel,vim,vscode,windows,yarn,wordpress" />
+    <img src="https://skillicons.dev/icons?i=git,js,html,css,scss,python,django,react,nodejs,rust,vue,angular,go,aws,java,c,babel,bitbucket,bootstrap,cpp,discord,docker,electron,express,figma,firebase,github,gmail,gitlab,graphql,heroku,ipfs,jenkins,jquery,kubernetes,linkedin,linux,mongodb,mysql,netlify,nextjs,nestjs,nginx,npm,php,postgres,powershell,pytorch,r,redux,regex,remix,replit,spring,sqlite,stackoverflow,solidity,swift,tailwind,tensorflow,ts,ubuntu,vercel,vim,vscode,windows,yarn,wordpress" />
 </p>
 
 <!--
