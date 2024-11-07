@@ -14,8 +14,9 @@
     <img src="https://skillicons.dev/icons?i=git,js,html,css,scss,python,django,react,nodejs,vue,angular,go,aws,java,c,babel,bitbucket,bootstrap,cpp,discord,docker,electron,express,figma,firebase,github,gmail,gitlab,graphql,heroku,ipfs,jenkins,jquery,kubernetes,linkedin,linux,mongodb,mysql,netlify,nextjs,nestjs,nginx,npm,php,postgres,powershell,pytorch,r,redux,regex,remix,replit,rust,spring,sqlite,stackoverflow,solidity,swift,tailwind,tensorflow,ts,ubuntu,vercel,vim,vscode,windows,yarn,wordpress" />
 </p>
 
+<!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhanj888&langs_count=10" alt="burhanj888" /></p>
-
+-->
 
 <!--
 **burhanj888/burhanj888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
